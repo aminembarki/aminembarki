@@ -16,7 +16,7 @@ I'm Amine Mbarki, a **Senior Fullstack Developer** with expertise in:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aminembarki&layout=compact&theme=radical)
 
 ## 📬 Get in touch
-- Twitter: [@your_twitter_handle](https://twitter.com/mbarkiamine)
-- LinkedIn: [your-linkedin-name](https://www.linkedin.com/in/aminembarki/)
+- Twitter: [@mbarkiamine](https://twitter.com/mbarkiamine)
+- LinkedIn: [@aminembarki](https://www.linkedin.com/in/aminembarki/)
 
 
