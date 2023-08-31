@@ -1,16 +1,22 @@
-### Hi there 👋
+# Hello, World! 👋
 
-<!--
-**aminembarki/aminembarki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Amine Mbarki, a **Senior Fullstack Developer** with expertise in:
+- 🖥️ **React** - Building pixel-perfect, responsive, and performant frontend applications.
+- 🛠️ **NestJs** - Crafting scalable and maintainable backends.
+- 🚀 **AWS** - Orchestrating cloud infrastructure and services.
+- 🌩️ **Serverless** - Building and deploying without the server headache.
+- 🔧 **DevOps** - Automating, optimizing, and monitoring the development lifecycle.
+  
+🌐 I'm a **Digital Nomad** 🌍, exploring new places while coding & deploying apps that scale. I believe in building resilient systems that not only serve their purpose but also stand the test of time.
 
-Here are some ideas to get you started:
+## 📈 Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=aminembarki&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aminembarki&layout=compact&theme=radical)
+
+## 📬 Get in touch
+- Twitter: [@your_twitter_handle](https://twitter.com/mbarkiamine)
+- LinkedIn: [your-linkedin-name](https://www.linkedin.com/in/aminembarki/)
+
+
