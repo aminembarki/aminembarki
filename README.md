@@ -52,7 +52,7 @@ const amine = {
   location: "🌍 Digital Nomad",
   
   stack: {
-    backend: ["NestJS", "Node.js", "TypeScript"],
+    backend: ["NextJS", "Node.js", "TypeScript"],
     frontend: ["React", "Next.js"],
     cloud: ["AWS", "Serverless", "Docker", "Kubernetes"],
     scraping: ["Crawlee", "Puppeteer", "Playwright", "Cheerio"],
