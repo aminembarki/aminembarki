@@ -15,7 +15,7 @@
 <td width="50%">
 
 ### ☁️ [Crawlee Cloud](https://github.com/crawlee-cloud)
-**Self-hosted web scraping platform** — Run Crawlee/Apify actors on your own infrastructure with full control.
+**Self-hosted apify alternative platform** — Run Crawlee/Apify actors on your own infrastructure with full control.
 
 - 🔒 **Privacy-first** — Your data stays on YOUR servers
 - 💰 **Cost-effective** — No per-actor pricing
